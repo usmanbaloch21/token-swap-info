@@ -191,15 +191,7 @@ npm run dev          # Start development server
 npm run build        # Build for production
 npm run start        # Start production server
 npm run lint         # Run ESLint
-npm run lint:fix     # Fix ESLint errors
-npm run type-check   # Run TypeScript checks
 ```
-
-### Code Quality
-- ESLint for code linting
-- TypeScript for type safety
-- Prettier for code formatting
-- Husky for git hooks
 
 ## 📈 Future Enhancements
 
